@@ -1,0 +1,7 @@
+* {font-family:cursive;
+}
+h1, "TSA title" {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+  }
